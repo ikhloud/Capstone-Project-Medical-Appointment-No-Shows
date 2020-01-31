@@ -9,12 +9,12 @@
 - Licensing, Authors 
 
 
-#### Installations:
+### Installations:
 
 The code should run with no issues using Python versions 3.
 
 
-#### Project Motivation
+### Project Motivation
 
 This project is the capestone for the Data Scientist Nandegree Program from Udacity. I choose to work on a data set that contains Medical Appointment No Shows. This dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment . We will analyse the Dataset to find what factors are important for us to know in order to predict if a patient will show up for their scheduled appointment?
 
@@ -45,7 +45,7 @@ Here is the explanation of each variable :
 **No** if the patient showed up to their appointment,**Yes** if they did not show up.
 
 
-#### Results
+### Results
 
 The main findings of the code can be found at the post available here : https://medium.com/@ikhloud00_51119/capstone-project-medical-appointment-no-shows-5373877c495b
 
